@@ -43,7 +43,7 @@ You will need a session ID to run the MALAKA-MD. Click the button below to obtai
 > **Get Pair Code (Session ID)**
 
 <p align="center">
-<a href='https://malaka-ml-05ef2a472c16.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://malaka-ml-fa86803e6655.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=150 height=28/p></a>
 
 
 ---
